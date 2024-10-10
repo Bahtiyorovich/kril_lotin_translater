@@ -1,0 +1,1 @@
+# kril_lotin_translater
